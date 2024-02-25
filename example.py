@@ -1,2 +1,2 @@
 def example_function():
-    return "Second change in branch1"
+    return "Third change in branch1"
